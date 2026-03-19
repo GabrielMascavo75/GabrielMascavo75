@@ -1,14 +1,17 @@
 # 👋 Olá, eu sou o Gabriel Macedo
+![coding gif](https://giphy.com/gifs/spiderman-spiderverse-into-the-1qErVv5GVUac8uqBJU)
+<p align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/spiderman-spiderverse-into-the-1qErVv5GVUac8uqBJU)" width="400"/>
+</p>
 
-🎓 Estudante de **Ciência da Computação** (5º semestre)  
-💻 Interessado em tecnologia, dados e segurança  
-🎮 Gamer nas horas vagas  
-📺 Fã de séries de ação  
-🏠 Curto ficar em casa e estudar/assistir conteúdos
+ Estudante de **Ciência da Computação** (5º semestre)  
+ Interessado em tecnologia, dados e segurança  
+ Gamer nas horas vagas    
+ Curto ficar em casa e estudar/assistir conteúdos
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou um estudante dedicado e curioso, sempre buscando aprender mais sobre tecnologia e suas aplicações no mundo real. Tenho interesse em resolver problemas, analisar dados e entender como sistemas funcionam por trás dos bastidores.
 
@@ -28,24 +31,24 @@ Atualmente, estou focado em desenvolver minhas habilidades técnicas e construir
 
 ## 🛠️ Tecnologias e Conhecimentos
 
-- 💡 Lógica de Programação
-- 🐍 Python (em aprendizado)
-- 📊 Pandas, NumPy e Matplotlib
-- 💻 Linguagem C
-- 🌐 Conceitos de Redes de Computadores
-- 🧠 Algoritmos e Estruturas de Dados
+-  Lógica de Programação
+-  Python (em aprendizado)
+-  Pandas, NumPy e Matplotlib
+-  Linguagem Python, Java e SQL
+-  Conceitos de Redes de Computadores
+-  Algoritmos e Estruturas de Dados
 
 ---
 
-## 📚 Experiência Acadêmica
+##  Experiência Acadêmica
 
-- 📌 Estudos em:
+-  Estudos em:
   - Sistemas Operacionais
   - Redes de Computadores
   - Análise e Projeto de Algoritmos
   - Paradigmas de Programação
 
-- 🧪 Interesse em Iniciação Científica
+-  Interesse em Iniciação Científica
 
 ---
 
