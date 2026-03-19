@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Macedo
 
-<!--
-**GabrielMascavo75/GabrielMascavo75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** (5º semestre)  
+💻 Interessado em tecnologia, dados e segurança  
+🎮 Gamer nas horas vagas  
+📺 Fã de séries de ação  
+🏠 Curto ficar em casa e estudar/assistir conteúdos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou um estudante dedicado e curioso, sempre buscando aprender mais sobre tecnologia e suas aplicações no mundo real. Tenho interesse em resolver problemas, analisar dados e entender como sistemas funcionam por trás dos bastidores.
+
+Atualmente, estou focado em desenvolver minhas habilidades técnicas e construir uma base sólida para atuar na área de tecnologia.
+
+---
+
+## 🎯 Áreas de Interesse
+
+- 📊 Análise de Dados
+- 🤖 Machine Learning
+- 🔐 Segurança da Informação (Pentest)
+- 🧬 Bioinformática
+- 🧠 Inteligência Computacional
+
+---
+
+## 🛠️ Tecnologias e Conhecimentos
+
+- 💡 Lógica de Programação
+- 🐍 Python (em aprendizado)
+- 📊 Pandas, NumPy e Matplotlib
+- 💻 Linguagem C
+- 🌐 Conceitos de Redes de Computadores
+- 🧠 Algoritmos e Estruturas de Dados
+
+---
+
+## 📚 Experiência Acadêmica
+
+- 📌 Estudos em:
+  - Sistemas Operacionais
+  - Redes de Computadores
+  - Análise e Projeto de Algoritmos
+  - Paradigmas de Programação
+
+- 🧪 Interesse em Iniciação Científica
+
+---
+
+## 💼 Experiência
+
+- 🔧 Serviço voluntário em instalação de redes e sistemas de segurança residencial
+- 📊 Projetos acadêmicos envolvendo análise de dados
+
+---
+
+## 🌎 Objetivos
+
+Busco uma oportunidade de **estágio em TI**, especialmente nas áreas de:
+- Desenvolvimento
+- Dados
+- Machine Learning
+
+Quero contribuir com soluções práticas e crescer profissionalmente em um ambiente colaborativo.
+
+---
+
+## 🤝 Soft Skills
+
+- 🗣️ Comunicativo  
+- 🔍 Analítico  
+- 🤝 Colaborativo  
+- 💡 Proativo  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (adicione aqui)
+- Email: (adicione aqui)
+
+---
+
+⭐ *Sempre aprendendo, evoluindo e buscando novos desafios!*
