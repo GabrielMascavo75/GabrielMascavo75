@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Gabriel Macedo
+
 ![coding gif](https://giphy.com/gifs/spiderman-spiderverse-into-the-1qErVv5GVUac8uqBJU)
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/spiderman-spiderverse-into-the-1qErVv5GVUac8uqBJU)" width="400"/>
+  <img src="(https://giphy.com/gifs/spiderman-spiderverse-into-the-1qErVv5GVUac8uqBJU)" width="400"/>
 </p>
 
  Estudante de **Ciência da Computação** (5º semestre)  
