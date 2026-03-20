@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel Macedo
+# Muito bem-vindos, eu sou o Gabriel Macedo🕷️
 
 ![coding gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I0OXpwbG84ZnhmNG90MnJ3amhlbmR0MTBzc2w4eW9lZHNhMmhqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif)
 <p align="center">
@@ -6,17 +6,15 @@
 </p>
 
  Estudante de **Ciência da Computação** (5º semestre)  
- Interessado em tecnologia, dados e segurança  
+ Interessado em tecnologia, dados e estética
  Gamer nas horas vagas    
- Curto ficar em casa e estudar/assistir conteúdos
+ Curto ficar em casa e estudar/assistir conteúdos.
 
 ---
 
 ## Sobre mim
 
-Sou um estudante dedicado e curioso, sempre buscando aprender mais sobre tecnologia e suas aplicações no mundo real. Tenho interesse em resolver problemas, analisar dados e entender como sistemas funcionam por trás dos bastidores.
-
-Atualmente, estou focado em desenvolver minhas habilidades técnicas e construir uma base sólida para atuar na área de tecnologia.
+Sou um estudante dedicado e curioso, sempre buscando aprender mais sobre tecnologia e suas aplicações no mundo real. Tenho interesse em resolver problemas, analisar dados e entender como sistemas funcionam por trás dos bastidores. Atualmente, estou focado em desenvolver minhas habilidades técnicas e construir uma base sólida para atuar na área de dados ou fullstack.
 
 ---
 
@@ -24,20 +22,29 @@ Atualmente, estou focado em desenvolver minhas habilidades técnicas e construir
 
 - 📊 Análise de Dados
 - 🤖 Machine Learning
-- 🔐 Segurança da Informação (Pentest)
 - 🧬 Bioinformática
-- 🧠 Inteligência Computacional
+- 🧠 Inteligência Artificial
 
 ---
 
 ## 🛠️ Tecnologias e Conhecimentos
 
--  Lógica de Programação
--  Python (em aprendizado)
--  Pandas, NumPy e Matplotlib
--  Linguagem Python, Java e SQL
--  Conceitos de Redes de Computadores
--  Algoritmos e Estruturas de Dados
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
 ---
 
@@ -55,16 +62,16 @@ Atualmente, estou focado em desenvolver minhas habilidades técnicas e construir
 
 ## 💼 Experiência
 
-- 🔧 Serviço voluntário em instalação de redes e sistemas de segurança residencial
-- 📊 Projetos acadêmicos envolvendo análise de dados
+-  Serviço voluntário em instalação de redes e sistemas de segurança residencial
+-  Projetos acadêmicos envolvendo análise de dados
 
 ---
 
 ## 🌎 Objetivos
 
 Busco uma oportunidade de **estágio em TI**, especialmente nas áreas de:
-- Desenvolvimento
-- Dados
+- Fullstack
+- Análise de Dados
 - Machine Learning
 
 Quero contribuir com soluções práticas e crescer profissionalmente em um ambiente colaborativo.
@@ -73,18 +80,18 @@ Quero contribuir com soluções práticas e crescer profissionalmente em um ambi
 
 ## 🤝 Soft Skills
 
-- 🗣️ Comunicativo  
-- 🔍 Analítico  
-- 🤝 Colaborativo  
-- 💡 Proativo  
+-  Comunicativo  
+-  Analítico  
+-  Colaborativo  
+-  Proativo  
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: (adicione aqui)
-- Email: (adicione aqui)
+- LinkedIn: https://www.linkedin.com/in/gabrielmacedoti/
+- Email: gabrimac11@gmail.com
 
 ---
 
-⭐ *Sempre aprendendo, evoluindo e buscando novos desafios!*
+ *Os dados revelam assinaturas do Criador em nós!*
