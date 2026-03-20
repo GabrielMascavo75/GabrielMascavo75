@@ -27,8 +27,6 @@ Sou um estudante dedicado e curioso, sempre buscando aprender mais sobre tecnolo
 
 ---
 
-## 🛠️ Tecnologias e Conhecimentos
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Linguagens
