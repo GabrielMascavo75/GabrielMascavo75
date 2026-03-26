@@ -1,8 +1,8 @@
 # Muito bem-vindos, eu sou o Gabriel Macedo🕷️
 
-![coding gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I0OXpwbG84ZnhmNG90MnJ3amhlbmR0MTBzc2w4eW9lZHNhMmhqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif)
+![coding gif](https://github.com/GabrielMascavo75/GabrielMascavo75/blob/main/miranha.gif)
 <p align="center">
-  <img src="[https://giphy.com/gifs/spiderman-spiderverse-into-the-1qErVv5GVUac8uqBJU.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I0OXpwbG84ZnhmNG90MnJ3amhlbmR0MTBzc2w4eW9lZHNhMmhqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif)" width="400"/>
+  <img src="[https://giphy.com/gifs/spiderman-spiderverse-into-the-1qErVv5GVUac8uqBJU.gif](https://github.com/GabrielMascavo75/GabrielMascavo75/blob/main/miranha.gif)" width="400"/>
 </p>
 
  Estudante de **Ciência da Computação** (5º semestre)  
